@@ -4,5 +4,5 @@ For when you need an extra bit of "Moshe ata le kipod" in your life
 
 ![](touchbar_kipod/full_moshe_dynamic.gif)
 
-* All credit goes to [TouchbarKipod][touchbar_kipod] - by @manyahin
+* All credit goes to [TouchbarNyancat][touchbar_nyancat] - by @avatsaev
 * Music by קוקו וסטיב - משה אתה לא קיפוד
